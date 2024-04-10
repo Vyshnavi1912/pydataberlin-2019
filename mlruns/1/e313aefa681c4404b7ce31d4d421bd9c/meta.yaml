@@ -1,0 +1,15 @@
+artifact_uri: mlruns/1/e313aefa681c4404b7ce31d4d421bd9c/artifacts
+end_time: 1712318225967
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: e313aefa681c4404b7ce31d4d421bd9c
+run_uuid: e313aefa681c4404b7ce31d4d421bd9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712318222840
+status: 3
+tags: []
+user_id: vyshnavi
